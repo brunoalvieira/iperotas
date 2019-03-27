@@ -1,0 +1,80 @@
+{
+  "Drivers" : {
+    "HjgG28AFzlQiNSAR5smKmB93WDm2" : {
+      ".priority" : "6gvcf93pm1",
+      "g" : "6gvcf93pm1",
+      "l" : [ -23.5905157, -48.0526103 ]
+    },
+    "NqoIslCOrWYfiVOJcaV7KNcleOH3" : {
+      ".priority" : "6gvcdxd18g",
+      "g" : "6gvcdxd18g",
+      "l" : [ -23.6011014, -48.0514113 ]
+    },
+    "PLIxzZwxEggSQqU3fdpfiEI36ts2" : {
+      ".priority" : "6gvcfbk8yt",
+      "g" : "6gvcfbk8yt",
+      "l" : [ -23.5971005, -48.0367487 ]
+    },
+    "fclPBBQTKYPgpbCeU3iyib68nIe2" : {
+      ".priority" : "6gvcf93pjn",
+      "g" : "6gvcf93pjn",
+      "l" : [ -23.5905291, -48.0526076 ]
+    },
+    "qPJvEGHDfqgcslRa2WoXzLODlgS2" : {
+      ".priority" : "6gvcf93nu8",
+      "g" : "6gvcf93nu8",
+      "l" : [ -23.5906043, -48.0526312 ]
+    },
+    "t2Yt7SPiZJQhw0EmbizGDlfQWf32" : {
+      ".priority" : "6gvcdxd19r",
+      "g" : "6gvcdxd19r",
+      "l" : [ -23.6010821, -48.0513963 ]
+    }
+  },
+  "Passageiros" : {
+    "e54370fa-ba4e-42ae-8a82-1f09d08e1360" : {
+      "endereco" : "Rua Número Zero",
+      "id" : "e54370fa-ba4e-42ae-8a82-1f09d08e1360",
+      "nome" : "Vinícius Domingues",
+      "telefone" : "15996325875"
+    }
+  },
+  "Users" : {
+    "HjgG28AFzlQiNSAR5smKmB93WDm2" : {
+      "email" : "lucas.bicudo@fatecitapetininga.edu.br",
+      "name" : "Lucas Damaceno",
+      "password" : "123456",
+      "phone" : "15997020873"
+    },
+    "NqoIslCOrWYfiVOJcaV7KNcleOH3" : {
+      "email" : "vinicius.domingues@gmail.com",
+      "name" : "Vinícius Domingues",
+      "password" : "123456",
+      "phone" : "15996325874"
+    },
+    "PLIxzZwxEggSQqU3fdpfiEI36ts2" : {
+      "email" : "lucastadeu132@gmail.com",
+      "name" : "Lucas Tadeu",
+      "password" : "123456",
+      "phone" : "15997020874"
+    },
+    "fclPBBQTKYPgpbCeU3iyib68nIe2" : {
+      "email" : "bruno@gmail.com",
+      "name" : "Bruno",
+      "password" : "123456",
+      "phone" : "15997080632"
+    },
+    "qPJvEGHDfqgcslRa2WoXzLODlgS2" : {
+      "email" : "vitor@gmail.com",
+      "name" : "Vitor",
+      "password" : "24011996",
+      "phone" : "996055714"
+    },
+    "t2Yt7SPiZJQhw0EmbizGDlfQWf32" : {
+      "email" : "a@gmail.com",
+      "name" : "Vinícius",
+      "password" : "123456",
+      "phone" : "996055555"
+    }
+  }
+}
